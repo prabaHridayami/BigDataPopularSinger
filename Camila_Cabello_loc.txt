@@ -1,0 +1,13 @@
+canada : 3
+none : 39
+ecuador : 7
+guayaquil : 4
+argentina : 2
+california : 1
+united states : 1
+london : 2
+england : 2
+colombia : 1
+talcahuano : 1
+chile : 1
+brasil : 2
