@@ -1,4 +1,5 @@
-[
+{
+  "data":[
   {
     "id": "1104745572857069568",
     "a_created_at": "2019-03-10 14:07:24",
@@ -6,6 +7,14 @@
     "c_location": "Jakarta , Indonesia",
     "d_tweet": "It hurts by  #angelsandairwaves  intro; https://t.co/yr7PY0oOch",
     "e_retweet": "0"
+  },
+  {
+    "id": "1110963437893345280",
+    "a_created_at": "2019-03-27 17:54:58",
+    "b_username": "iamjacob182",
+    "c_location": "Apple Valley, CA",
+    "d_tweet": "Fav one released hah #tomdelonge #blink182 #boxcarracer #angelsandairwaves https://t.co/aym9sCuvJM",
+    "e_retweet": "1"
   },
   {
     "id": "1104942404967137280",
@@ -16,12 +25,76 @@
     "e_retweet": "0"
   },
   {
+    "id": "1107602709316861958",
+    "a_created_at": "2019-03-18 11:20:38",
+    "b_username": "TheAVAMovement",
+    "c_location": "null",
+    "d_tweet": "AVA fan Nicholas was kind enough to share his close encounter with @tomdelonge on our FB group, and has reported that, when asked, Tom confirmed new #AngelsAndAirwaves music and tour this summer! He also said that Tom was super nice to him, as he always is with fans.\n#TomDelonge https://t.co/vaTVNTtlMK",
+    "e_retweet": "17"
+  },
+  {
+    "id": "1107616991198760961",
+    "a_created_at": "2019-03-18 12:17:23",
+    "b_username": "CultPopCulture",
+    "c_location": "Cincinnati, OH",
+    "d_tweet": "Can I take the summer off and follow @tomdelonge around the country on this tour? @AVABandOfficial ? Confirmed #AngelsAndAirwaves music is the best news I could get on a Monday morning! #NewMusic #TomDeLonge https://t.co/d12E5gOzrY",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1108296063998320640",
+    "a_created_at": "2019-03-20 09:15:47",
+    "b_username": "kevinboundy",
+    "c_location": "null",
+    "d_tweet": "∆ V ∆\n\"Soul Survivor\"\n(2012)\n♡♡♡\n•\n•\n•\n( A n g e l s  &amp;  A i r w a v e s ® )\n#angelsandairwaves #musicfans #rock #guitarrock #blind182 #poprock #emo #skaterock #metalhead #skatelife… https://t.co/ZuBxYaaQUc",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1112577786068328448",
+    "a_created_at": "2019-04-01 04:49:49",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "When all is said and done \nWill we still feel pain inside? \nWill the scars go away with night? ... \uD83C\uDF0C\uD83C\uDFB6\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1113429894422192128",
+    "a_created_at": "2019-04-03 13:15:48",
+    "b_username": "CNLastro",
+    "c_location": "North Pole, AK",
+    "d_tweet": "casual 2am stroll through Fairbanks\uD83D\uDC9A Angels &amp; Airwaves and a sky full of northern lights, does life get any better? #Northernlights #auroraborealis #Fairbanks #explorefairbanks #explorealaska #Angelsandairwaves #AVA https://t.co/mUBfQ0UNPW",
+    "e_retweet": "62"
+  },
+  {
+    "id": "1113317419676688385",
+    "a_created_at": "2019-04-03 05:48:51",
+    "b_username": "iamjacob182",
+    "c_location": "Apple Valley, CA",
+    "d_tweet": "Something is coming... \uD83D\uDE0A\uD83D\uDE4F\uD83D\uDC4C #angelsandairwaves https://t.co/AWMl92f0Cf",
+    "e_retweet": "2"
+  },
+  {
     "id": "1106533774412652545",
     "a_created_at": "2019-03-15 12:33:04",
     "b_username": "GrumpyOwlGaming",
     "c_location": "No idea. Where am I? WHO am i?",
     "d_tweet": "My heart goes out to #NewZealand ... Remember violence and hatred are TAUGHT. Society won't change until we change it. Even a simple phrase can influence our children's views of the world. Teach love, acceptance, compassion for ALL. #angelsandairwaves\n\nhttps://t.co/vF9SgED1qR",
     "e_retweet": "1"
+  },
+  {
+    "id": "1114085802508787713",
+    "a_created_at": "2019-04-05 08:42:08",
+    "b_username": "TheAVAMovement",
+    "c_location": "null",
+    "d_tweet": "\"Eyes wide up in five second intervals, unpredictable, life's a miracle...\" \uD83D\uDCAB\n#TomDelonge #AngelsAndAirwaves https://t.co/Xx8mWwJLn9",
+    "e_retweet": "12"
+  },
+  {
+    "id": "1110111431222050816",
+    "a_created_at": "2019-03-25 09:29:24",
+    "b_username": "kevinboundy",
+    "c_location": "null",
+    "d_tweet": "S m a s h i n g  P u m p k i n s\n\"Mayonaise\"\n(Siamese Dream)\n♡♡♡\n•\n•\n•\n( S m a s h i n g  P u m k i n s ® )\n#angelsandairwaves #musicfans #rock #guitarrock #blind182 #poprock #emo… https://t.co/Stm6iOMIbm",
+    "e_retweet": "0"
   },
   {
     "id": "1105976134322118657",
@@ -32,11 +105,99 @@
     "e_retweet": "1"
   },
   {
+    "id": "1115945837589409792",
+    "a_created_at": "2019-04-10 11:53:15",
+    "b_username": "kevinboundy",
+    "c_location": "null",
+    "d_tweet": "F i n i s h e d A r t  T o  M y  D e c k !\n♡♡♡\n•\n•\n•\n( A n g e l s &amp;  A i r w a v e s ® )\n#angelsandairwaves #musicfans #rock #skateboardart #blind182 #diyskate #skaterock #fires… https://t.co/yHHMDHb9RO",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1107183635113877505",
+    "a_created_at": "2019-03-17 07:35:23",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "We all make mistakes.\nHere's your Lifeline.\nIf you want it, I want to...\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
     "id": "1105146977262727168",
     "a_created_at": "2019-03-11 16:42:26",
     "b_username": "BlueChicane",
     "c_location": "The Circus of Values",
     "d_tweet": "Doing a chicken and chorizo lasagne for tea, today's culinary soundtrack has been provided by #AngelsAndAirwaves https://t.co/P84U7DKbeU",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1115788068563320833",
+    "a_created_at": "2019-04-10 01:26:20",
+    "b_username": "jayblink21",
+    "c_location": "England, United Kingdom",
+    "d_tweet": "Completely forgot what a crazy good album this is...! \n\n#dreamwalker #angelsandairwaves #tomdelonge #music #deezer\n\n@PoetAnderson001 @Angels_Airwaves @tomdelonge \uD83D\uDEF8\uD83D\uDEF8\uD83D\uDEF8 https://t.co/iqbb6eNMtB",
+    "e_retweet": "2"
+  },
+  {
+    "id": "1116359703632723968",
+    "a_created_at": "2019-04-11 15:17:48",
+    "b_username": "AngeloReginatto",
+    "c_location": "null",
+    "d_tweet": "Rite Of Spring\n#tbt - 5 set 2018\n\n#angelsandairwaves\n@angelsandairwaves\n@theavamovement\n@angelsandairwavesnews https://t.co/fPokEJzL6p",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1107694722225750016",
+    "a_created_at": "2019-03-18 17:26:16",
+    "b_username": "srcvinyl",
+    "c_location": "the interwebs",
+    "d_tweet": "We have a SMALL AMOUNT of Angels &amp; Airwaves \"I-Empire\" and \"We Don't Need to Whisper\" coming back in stock VERY SOON!!! Grab yours: https://t.co/LswJbaiauc #angelsandairwaves #vinyl #srcvinyl https://t.co/dIh7aGUzhe",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1114688739702452225",
+    "a_created_at": "2019-04-07 00:38:00",
+    "b_username": "FernwehTreasure",
+    "c_location": "Shelbyville, TN",
+    "d_tweet": "Don't worry, it's isnt an angel, you can blink ;) #drwho #faeblood #dontblink #angelsandairwaves \n.\n.\n.\n #hippystyle #rainbowsunset #hippiegirl #glitchart #cyberpunk… https://t.co/7WsCZsslCR",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1111070070468276226",
+    "a_created_at": "2019-03-28 00:58:42",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "Tracking \uD83E\uDD41\uD83E\uDD41 #angelsandairwaves https://t.co/t7A4xi8DRe",
+    "e_retweet": "2"
+  },
+  {
+    "id": "1108780884285710336",
+    "a_created_at": "2019-03-21 17:22:17",
+    "b_username": "snowbabymn",
+    "c_location": "Minnesota, USA",
+    "d_tweet": "Sat in my car for lunch, put my music on shuffle and my phone’s been playing all my faves ☺️ #AngelsandAirwaves #Avicii #BrooksandDunn",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1111066426536714240",
+    "a_created_at": "2019-03-28 00:44:13",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "David in the studio with Ilan #angelsandairwaves https://t.co/5ez9LS5KA0",
+    "e_retweet": "4"
+  },
+  {
+    "id": "1110965160846356480",
+    "a_created_at": "2019-03-27 18:01:49",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "#tomdelonge #blink182 #boxcarracer #angelsandairwaves https://t.co/jxbKzBhKaQ",
+    "e_retweet": "1"
+  },
+  {
+    "id": "1110839270976245760",
+    "a_created_at": "2019-03-27 09:41:35",
+    "b_username": "kevinboundy",
+    "c_location": "null",
+    "d_tweet": "My Art To My Skateboard\n♡♡♡\n•\n•\n•\n( A n g e l s &amp;  A i r w a v e s ® )\n#angelsandairwaves #musicfans #rock #guitarrock #blind182 #poprock #emo #skaterock #metalhead #skatelife #lovemovie… https://t.co/gb95PS11da",
     "e_retweet": "0"
   },
   {
@@ -46,5 +207,357 @@
     "c_location": "Missouri",
     "d_tweet": "The best album when it’s \uD83C\uDF27 like this: https://t.co/COGZdEgwyH #AngelsandAirwaves",
     "e_retweet": "1"
+  },
+  {
+    "id": "1108422983591317505",
+    "a_created_at": "2019-03-20 17:40:07",
+    "b_username": "srcvinyl",
+    "c_location": "the interwebs",
+    "d_tweet": "We have a SMALL AMOUNT of Angels &amp; Airwaves \"I-Empire\" and \"We Don't Need to Whisper\" coming back in stock VERY SOON!!! Grab yours: https://t.co/LswJbaiauc #angelsandairwaves #vinyl #srcvinyl https://t.co/betOJDPeU9",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1109313290407010304",
+    "a_created_at": "2019-03-23 04:37:53",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "#LoveEra #angelsandairwaves https://t.co/aLtdmGtSxd",
+    "e_retweet": "2"
+  },
+  {
+    "id": "1112847116999770113",
+    "a_created_at": "2019-04-01 22:40:03",
+    "b_username": "PodCassette",
+    "c_location": "Montréal, Québec",
+    "d_tweet": "Episode 173 - Angels and Airwaves (Tom DeLonge's final ego project!) \n\niTunes : https://t.co/0vqOtPnZL5\n\nSpotify : https://t.co/SVWzynyDaF\n\nBaladoQuebec : https://t.co/ogiABuVaUe\n\n#lacassette #podcast #angelsandairwaves #tomdelonge #blink182 #poppunk https://t.co/2BFsh1tRjR",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1116101148677566464",
+    "a_created_at": "2019-04-10 22:10:24",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "@ToTheStarsInc was kind enough to share this pic @tomdelonge @AVABandOfficial #newmusic #angelsandairwaves https://t.co/4CpipFdo0l",
+    "e_retweet": "1"
+  },
+  {
+    "id": "1112578037550211074",
+    "a_created_at": "2019-04-01 04:50:49",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "I'm sorry I have to say it but you look like you're sad \nYour smile is gone; I've noticed it bad...\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1113684848718139392",
+    "a_created_at": "2019-04-04 06:08:53",
+    "b_username": "hiyasweetp",
+    "c_location": "Oxnard, CA",
+    "d_tweet": "“...But I'm here and I'm cool, the way that it is...Just give me a chance and I'll try to forgive...” #angelsandairwaves https://t.co/jOrL3fufDC",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1110661259165224960",
+    "a_created_at": "2019-03-26 21:54:13",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "#LOVEera #angelsandairwaves https://t.co/Opkf9fdo0D",
+    "e_retweet": "1"
+  },
+  {
+    "id": "1111126403909451776",
+    "a_created_at": "2019-03-28 04:42:33",
+    "b_username": "skieslikerocket",
+    "c_location": "null",
+    "d_tweet": "Here’s a new song for fans of #thestorysofar #angelsandairwaves #knucklepuck and #lofi \n\nChoose your streaming platform: https://t.co/WXlCv0flRh https://t.co/3jINitYZuT",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1108499226282078214",
+    "a_created_at": "2019-03-20 22:43:05",
+    "b_username": "Fla182",
+    "c_location": "São Paulo - Brasil",
+    "d_tweet": "I wish for an #angelsandairwaves tour in July when I’m on vaca",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1112167841216622592",
+    "a_created_at": "2019-03-31 01:40:51",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "#LOVEera #angelsandairwaves https://t.co/y8jqTLbKQ7",
+    "e_retweet": "3"
+  },
+  {
+    "id": "1116088876148326402",
+    "a_created_at": "2019-04-10 21:21:38",
+    "b_username": "kevinboundy",
+    "c_location": "null",
+    "d_tweet": "S k a t e  &amp;  A r t  I s  L i f e !\n\"My D I Y Work\"\n♡♡♡\n•\n•\n•\n( A n g e l s &amp;  A i r w a v e s ® )\n#angelsandairwaves #musicfans #rock #skateboardart #blind182 #diyskate #skaterock #fires… https://t.co/Al5lOtYJPy",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1112566366379241478",
+    "a_created_at": "2019-04-01 04:04:26",
+    "b_username": "CNLastro",
+    "c_location": "North Pole, AK",
+    "d_tweet": "Do you believe in hallucinations?\nSilly dreams or Imagination? \n#northrnlights #auroraborealis #Fairbanks #alaska #explorefairbanks #explorealaska #astrophotography #astronomy #Sony #sonyalpha #a7s #angelsandairwaves #AVA https://t.co/KQCswnrWE7",
+    "e_retweet": "157"
+  },
+  {
+    "id": "1114477476829323264",
+    "a_created_at": "2019-04-06 10:38:31",
+    "b_username": "firefighterkjb",
+    "c_location": "Ontario, Canada",
+    "d_tweet": "@AVABandOfficial Please, please, please.....for the LOVE of Christ, give us new material and a tour!!!! #angelsandairwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1115018945830866944",
+    "a_created_at": "2019-04-07 22:30:07",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "#TDWera #angelsandairwaves #tomdelonge #ilanrubin https://t.co/xo6wjZ9emY",
+    "e_retweet": "3"
+  },
+  {
+    "id": "1114421328839303169",
+    "a_created_at": "2019-04-06 06:55:24",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "And suddenly, \nyou've done it all. \nYou've won me over, \nin no time at all...\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1109747107181801473",
+    "a_created_at": "2019-03-24 09:21:43",
+    "b_username": "BHPodcasting",
+    "c_location": "null",
+    "d_tweet": "*NEW* podcast is up baby! @Myke_Griffy and @dbor2730 sit down and talk music. How it was growing up and how its evolved. They also take a deeper look into meanings of their favorite songs/bands. Enjoy! #Podcast #iTunes #Soundcloud #Music #AngelsAndAirwaves https://t.co/n2cfTC2P5T",
+    "e_retweet": "4"
+  },
+  {
+    "id": "1113652324579278849",
+    "a_created_at": "2019-04-04 03:59:39",
+    "b_username": "gamergirlraider",
+    "c_location": "North Carolina, USA",
+    "d_tweet": "I love #AngelsandAirwaves https://t.co/FgpQI8uknZ",
+    "e_retweet": "1"
+  },
+  {
+    "id": "1107183214471401472",
+    "a_created_at": "2019-03-17 07:33:43",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "There’s a field near the dream.\nI watched it grow with whitest light.\nI watched us all reach out and lean.\nFor the strength to touch the sky... \n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1110050444498202624",
+    "a_created_at": "2019-03-25 05:27:04",
+    "b_username": "MaMontano2",
+    "c_location": "Tucson, AZ",
+    "d_tweet": "Back to the Studio!!! DFN #25\nhttps://t.co/J1wxebxGHy\n#NSFW #KillCloneTom #BringItOnTomFanboys #FuckTom #AngelsandAirwaves #Blink182 #podcasts #comedy #Soundcloud #dickjokes",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1114641902324867072",
+    "a_created_at": "2019-04-06 21:31:53",
+    "b_username": "FrenandoTablero",
+    "c_location": "Pachuca, Hgo. MEX",
+    "d_tweet": "Don't pressure us, anxiety\nI'm a passenger\nSo serious, anxiety\nJust a passenger!\n\uD83C\uDFB6\n#dontpressureusanxiety\n#anxiety\n#runningfromthetruth\n#justapassenger\n#tomdelonge\n#ava\n#angelsandairwaves \nhttps://t.co/TzqvvlRCWT",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1109582715437748225",
+    "a_created_at": "2019-03-23 22:28:29",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "Check out the short doc Meta shot w/ @tomdelonge #angelsandairwaves #tomdelonge #blink182 #boxcarracer https://t.co/q0rNeEmkDO",
+    "e_retweet": "8"
+  },
+  {
+    "id": "1112576223371292672",
+    "a_created_at": "2019-04-01 04:43:36",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "And like one would, like a child, I'm asking..\nLike I could knock on your door... Will you let me in?\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1108385594026143744",
+    "a_created_at": "2019-03-20 15:11:33",
+    "b_username": "kevinpmiller",
+    "c_location": "Cleveland and beyond.",
+    "d_tweet": "It may sound tired or trite, but sometimes we simply need to be more grateful for what we have in front of us. https://t.co/zBaHuXkCPL Read #AngelsAndAirwaves. https://t.co/AzwZ59Kq7r",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1112168258080169985",
+    "a_created_at": "2019-03-31 01:42:30",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "#TDWera #angelsandairwaves #tomdelonge #ilanrubin https://t.co/W6pAOe4oKW",
+    "e_retweet": "1"
+  },
+  {
+    "id": "1112716272788295680",
+    "a_created_at": "2019-04-01 14:00:07",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "A sense of hope.\nFor something bigger than ourselves...\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1107183549332025344",
+    "a_created_at": "2019-03-17 07:35:03",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "If you wish it, wish it now.\nIf you wish it, wish it loud.\nIf you want it, say it now.\nIf you want it, say it loud...\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1108466092895285254",
+    "a_created_at": "2019-03-20 20:31:25",
+    "b_username": "martiinaax_182",
+    "c_location": "Italia",
+    "d_tweet": "BUT WHAT A FUCK?! \uD83D\uDE0D\uD83D\uDCA5\n#TomDeLonge #AngelsAndAirwaves https://t.co/SlEorqauD4",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1110084045348786176",
+    "a_created_at": "2019-03-25 07:40:35",
+    "b_username": "kevinboundy",
+    "c_location": "null",
+    "d_tweet": "∆ V ∆\n\"Lifeline\"\n(UnOfficial Video)\n♡♡♡\n•\n•\n•\n( A n g e l s &amp;  A i r w a v e s ® )\n#angelsandairwaves #musicfans #rock #guitarrock #blind182 #poprock #emo #skaterock #metalhead #skatelife… https://t.co/1N30iEkfIp",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1107617138964078594",
+    "a_created_at": "2019-03-18 12:17:59",
+    "b_username": "CultPopCulture",
+    "c_location": "Cincinnati, OH",
+    "d_tweet": "Can I take the summer off and follow @tomdelonge around the country on this tour? @AVABandOfficial ? Confirmed #AngelsAndAirwaves music is the best news I could get on a Monday morning! #NewMusic #TomDeLonge https://t.co/9Thf3yx20V",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1111941011255816193",
+    "a_created_at": "2019-03-30 10:39:30",
+    "b_username": "Carter78_UK",
+    "c_location": "Solihull, England",
+    "d_tweet": "So the conversion of my strat copy into a @tomdelonge strat is almost complete. #tothestarsacademy #tomdelonge #blink182 #angelsandairwaves https://t.co/enO5W5sbHh",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1111007334073950208",
+    "a_created_at": "2019-03-27 20:49:24",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "@IlanRubin recording @AVABandOfficial today #newmusic #angelsandairwaves https://t.co/QzSPGhwbp7",
+    "e_retweet": "1"
+  },
+  {
+    "id": "1109824457000910848",
+    "a_created_at": "2019-03-24 14:29:04",
+    "b_username": "fadhlinooralam",
+    "c_location": "Bandung",
+    "d_tweet": "#angelsandairwaves https://t.co/eOfnkfh1o9",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1112581621750906881",
+    "a_created_at": "2019-04-01 05:05:04",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "When you see it, do you overload?\nDo you feel like you should bide your time...\n#AngelsAndAirwaves",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1111010482406727680",
+    "a_created_at": "2019-03-27 21:01:55",
+    "b_username": "el5to_Beatle",
+    "c_location": "Bonito León, Guanajuato",
+    "d_tweet": "#AngelsAndAirwaves #TrueLove \uD83D\uDC96\uD83D\uDCAB https://t.co/LquEmmMhEF",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1113088356752060416",
+    "a_created_at": "2019-04-02 14:38:39",
+    "b_username": "PoetAnderson001",
+    "c_location": "California",
+    "d_tweet": "#TDWera #angelsandairwaves #tomdelonge #ilanrubin https://t.co/S6SfCxMT9I",
+    "e_retweet": "3"
+  },
+  {
+    "id": "1114185816002236416",
+    "a_created_at": "2019-04-05 15:19:33",
+    "b_username": "cadillacone",
+    "c_location": "Damn near everywhere",
+    "d_tweet": "From the narrow eyes\nYou cross your chest and cry.\nA quiet life to make believe\nYour faith awaits so patiently for them...\n#AngelsAndAirwaves #TomDeLonge",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1107800117061529601",
+    "a_created_at": "2019-03-19 00:25:04",
+    "b_username": "srcvinyl",
+    "c_location": "the interwebs",
+    "d_tweet": "We have a SMALL AMOUNT of Angels &amp; Airwaves \"I-Empire\" and \"We Don't Need to Whisper\" coming back in stock VERY SOON!!! Grab yours: https://t.co/LswJbaiauc #angelsandairwaves #vinyl #srcvinyl https://t.co/Qc03YoNiYL",
+    "e_retweet": "2"
+  },
+  {
+    "id": "1107475013068713984",
+    "a_created_at": "2019-03-18 02:53:13",
+    "b_username": "MichaelDiolazo",
+    "c_location": "Las Vegas, NV",
+    "d_tweet": "Space man himself.  Coolest dude EVER.  Period.  Thanks for telling my kids they can eat ice cream anytime they want. #angelsandairwaves #ToTheStars https://t.co/OVsuasniy1",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1115276054564728832",
+    "a_created_at": "2019-04-08 15:31:46",
+    "b_username": "TheExtremeDuck",
+    "c_location": "California",
+    "d_tweet": "I’ll be your distraction. #angelsandairwaves #distraction #wedontneedtowhisper https://t.co/L8LgiqWPz1",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1114179121658118145",
+    "a_created_at": "2019-04-05 14:52:57",
+    "b_username": "BlueChicane",
+    "c_location": "The Circus of Values",
+    "d_tweet": "It's Friday so I'm cooking a curry for tea, today's culinary soundtrack has been provided by #AngelsAndAirwaves https://t.co/CjnjgnqYRu",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1108270528375197696",
+    "a_created_at": "2019-03-20 07:34:19",
+    "b_username": "TheCosmosWithin",
+    "c_location": "Cosmos",
+    "d_tweet": "This whole album is feels: We Don't Need To Whisper #AngelsAndAirwaves #AVA",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1106725038923935746",
+    "a_created_at": "2019-03-16 01:13:05",
+    "b_username": "chasingmysky",
+    "c_location": "Everywhere ",
+    "d_tweet": "“Breathe it in, just follow me right to the end.” Next shelf pull #angelsandairwaves #ofnightmares companion piece to #poetanderson hence the #comicbooks, #dvd #boxset and the only #pop I… https://t.co/1aM40yP9dX",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1110801206228762626",
+    "a_created_at": "2019-03-27 07:10:19",
+    "b_username": "Jeremy_Cadle",
+    "c_location": "infinite vortex",
+    "d_tweet": "Critical Rising - We Don't Need To Whisper - Acoustic EP\nhttps://t.co/gyY4JgBgSg\n@tomdelonge @ToTheStarsInc @AVABandOfficial @TheAVAMovement #AngelsAndAirwaves #WeDontNeedToWhisper #ToTheStars #TomDeLonge",
+    "e_retweet": "0"
+  },
+  {
+    "id": "1114978382020861952",
+    "a_created_at": "2019-04-07 19:48:56",
+    "b_username": "MissRainbow77",
+    "c_location": "Belper",
+    "d_tweet": "So much fun celebrating this amazing couple's wedding. With a Vegas themed party and a touch of #angelsandairwaves love and magic ♥️\nIt's amazing to watch our lives evolve.… https://t.co/OjoPnxjjgQ",
+    "e_retweet": "0"
   }
-]
+]}

@@ -1,0 +1,13 @@
+none : 111
+United States : 17
+Austria : 1
+Indonesia : 6
+Brazil : 3
+Ghana : 1
+India : 1
+United Kingdom : 1
+Argentina : 1
+Venezuela : 2
+Ecuador : 1
+Philippines : 1
+Republic of Lithuania : 1
