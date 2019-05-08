@@ -10,10 +10,10 @@ import openpyxl
 
 class FileManagement:
     def __init__(self):
-        self.json_file_name = "json/tes1_bts.json"
-        self.excel_file_name = "bts"
+        self.json_file_name = "json/tes1_xxxtentacion.json"
+        self.excel_file_name = "xxxtentacion"
+        self.idSinger = 40
         self.country = "country/countries.json"
-        self.idSinger = 9
         self.array_x = []
         self.array_y = []
 
@@ -63,6 +63,35 @@ class FileManagement:
             self.array_y.append(y)
             pprint.pprint("x = {0}".format(x))
             pprint.pprint("y = {0}".format(y))
+
+    def retweet(self):
+        # membersihkan data dan merubah ke bentuk .txt
+        try:
+            dataHasil = ""
+            tweet = 1
+            with open(self.json_file_name, 'r', encoding="utf-8") as data_file:
+                data = json.load(data_file)
+                for each_axis in data["data"]:
+                    locations = (each_axis["c_location"])
+                    retweet = (each_axis["e_retweet"])
+                    locations = locations.split(',')
+                    for x in range(len(locations)):
+                        locations[x] = locations[x].replace(' ', '')
+                        locations[x] = filter_country(str(locations[x]))
+
+                        if locations[x] == '':
+                            locations[x] = 'none'
+                        loc = locations[x]
+                        dataHasil += str(loc) + "\n"
+                    tweet += 1
+
+                pprint.pprint("tweet : " + str(tweet))
+
+            with open('Location.txt', 'w', encoding="utf-8") as file:
+                file.write(dataHasil)
+        except:
+            print("Unexpected Error :", sys.exc_info()[0])
+            raise
 
     def save_to_xlsx(self):
         # menyimpan ke bentuk excel

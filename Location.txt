@@ -2,24 +2,11 @@ none
 none
 none
 none
-none
-none
-none
-Colombia
-none
-Turkey
-United States
 United States
 none
-none
-none
-none
-none
-none
-none
-none
-none
-none
+United States
+United States
+United States
 none
 United States
 none
@@ -27,103 +14,77 @@ none
 none
 none
 none
+United States
+United States
+Japan
+Japan
 none
+none
+none
+Sweden
+Nigeria
+none
+none
+none
+United Kingdom
+United Kingdom
 United States
 United States
 none
 none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-United States
-none
-none
-none
-none
-Mexico
-none
-none
-Austria
-none
-Thailand
-none
-none
-none
-none
-United States
 United States
 none
 none
 none
 none
 none
+none
+none
+none
+none
+none
+none
+United States
 none
 none
 none
 Indonesia
 none
-none
+United States
 none
 none
 none
 United States
 none
 none
+United States
+United States
+United States
+none
+none
+none
 none
 none
 none
 United States
-none
-none
-Indonesia
+South Africa
 none
 none
 none
 none
-Republic of Korea
-none
-none
+United States
+United States
 none
 none
 none
 none
 none
 none
-Brazil
 none
 none
-none
-none
-none
-none
-Ghana
-India
-none
-none
-none
-none
-none
-Ecuador
-Ecuador
-none
-Colombia
-none
-none
-none
-Ecuador
-Ecuador
-none
-none
-none
+United States
+Kenya
+Kenya
 none
 United Kingdom
 none
@@ -132,76 +93,244 @@ none
 none
 none
 none
+United States
 none
 none
 none
+none
+United States
+none
+none
+none
+none
+United States
+Ghana
+none
+none
+Iraq
+United States
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+Kosovo
+United States
+United States
+none
+none
+none
+none
+Italy
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+United States
+Portugal
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+Japan
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+United States
+none
+Kuwait
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+United States
+United States
+none
+none
+United States
 none
 none
 none
 none
 Brazil
 none
+United States
+none
+Uruguay
+United States
+none
+none
+none
+United States
+Ghana
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+Puerto Rico
+none
+United States
+none
+none
+none
+United States
+none
+none
+Portugal
+none
+Saudi Arabia
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
 Argentina
+none
+none
+Argentina
+United States
+none
+none
+Uruguay
+United States
+none
+India
+United States
+none
+Iraq
+none
+none
+United States
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+France
 none
 Brazil
 none
+none
+none
+none
 United States
 United States
 none
-Indonesia
 none
 none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-Indonesia
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-Colombia
-Nicaragua
 United States
 none
 none
 none
 none
 none
+none
+none
+United States
+none
+none
+United States
+United States
 none
 none
 none
@@ -217,51 +346,152 @@ none
 none
 United States
 none
-United States
-none
-none
-none
-Argentina
-none
-none
-none
-Ecuador
-none
-none
-none
-none
-none
-none
-none
-none
-United States
-none
 none
 United States
 United States
 none
 none
-Argentina
+United States
 none
 none
 none
-Argentina
-none
-Indonesia
 none
 none
+none
+none
+none
+none
+none
+none
+none
+none
+Japan
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+United States
+none
+none
+United States
+France
+United States
+none
+United States
+none
+none
+none
+none
+none
+United States
+none
+Malaysia
+none
+none
+none
+none
+United States
+none
+none
+United States
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+United States
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+none
+Nepal
 Philippines
 none
 none
 none
-none
-Thailand
-Thailand
+United States
 none
 none
 none
 none
-Indonesia
+Uruguay
+United States
+United States
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+United States
+none
 none
 none
 none
@@ -270,42 +500,10 @@ United States
 United States
 none
 none
+United States
 none
 United States
 United States
-none
-none
-none
-Argentina
-none
-none
-Brazil
-none
-none
-Indonesia
-none
-none
-none
-United States
-United States
-none
-none
-Argentina
-none
-United States
-none
-none
-none
-none
-none
-none
-Indonesia
-United States
-United States
-United States
-Argentina
-none
-Indonesia
 none
 none
 none
@@ -318,8 +516,67 @@ none
 none
 none
 United States
-China
-Ecuador
+none
+none
+United States
+none
+United States
+United States
+none
+United States
+none
+none
+none
+none
+none
+Norway
+United States
+none
+none
+none
+none
+none
+United States
+United States
+United States
+none
+none
+Uruguay
+none
+none
+United States
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+United States
+none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+Germany
 none
 United States
 United States
@@ -329,6 +586,38 @@ none
 none
 none
 none
+none
+United States
+none
+none
+none
+none
+none
+United States
+none
+United States
+none
+none
+United States
+United States
+United States
+United States
+none
+none
+none
+United States
+none
+United States
+none
+United States
+none
+Japan
+Japan
+none
+none
+United States
+Belize
+none
 United States
 United States
 none
@@ -338,114 +627,171 @@ none
 United States
 none
 none
-Argentina
 none
-Venezuela
+none
+none
+none
 none
 none
 none
 United States
-Argentina
-Ecuador
+United States
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
 none
 United States
 none
 none
-Indonesia
-Indonesia
+none
+none
+Uruguay
+United States
+United States
+none
+France
+France
+none
+none
+none
+none
+Nigeria
+Nigeria
+none
+none
+none
+none
+none
+none
+none
+none
+Nigeria
+United States
+United Kingdom
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Bahrain
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+United States
+United States
+none
+none
+none
+none
+none
+Singapore
+none
+none
 none
 none
 Algeria
 none
 United States
-United States
-none
-United States
 none
 none
-none
-none
-none
-none
-none
-Ecuador
-none
-United States
-United States
-none
-none
-none
-Switzerland
+Brazil
+Brazil
 none
 none
 none
 none
 none
 none
-none
-none
-United States
-none
-none
-none
-none
-none
-none
-none
-Argentina
-Republic of Korea
-none
-none
-none
-United States
-Nicaragua
-none
-Philippines
-none
-Indonesia
-Indonesia
-none
-none
-none
-none
-none
-none
-none
-none
-none
-United States
-none
-none
-Iraq
-none
-none
-none
-none
-none
-none
-none
-United States
-none
-none
-none
-none
-none
-United States
-none
-Philippines
-United States
-none
-Pakistan
-United States
-Thailand
-Thailand
-none
-Switzerland
 none
 none
 none
 Brazil
-Republic of Lithuania
+none
+Sweden
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+United States
+United States
+United States
+United States
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+Uruguay
+United States
+none
+United States
+none
+none
+United States
+none
+Oman
+Oman
+none
+none
 none
 United States
 none
@@ -458,20 +804,72 @@ none
 none
 none
 none
+Norway
 none
 none
 none
-Turkey
+Brazil
 none
 none
 none
 none
 none
-Venezuela
 none
 none
 none
-Argentina
+none
+none
+United States
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+United States
+none
+Uruguay
+United States
+none
+none
+none
+United States
+none
+none
+none
+United States
+none
+Uruguay
+United States
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
 none
 none
 Chile
@@ -484,8 +882,495 @@ none
 none
 none
 none
+none
+none
 United States
 United States
+Ghana
+none
+United States
+none
+none
+none
+Georgia
+United States
+none
+none
+none
+none
+none
+none
+United States
+Brazil
+none
+none
+none
+none
+none
+none
+France
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+United States
+none
+none
+United States
+United States
+none
+none
+Sweden
+none
+none
+none
+none
+none
+United States
+none
+none
+Malaysia
+none
+none
+India
+United States
+United States
+none
+none
+none
+United States
+none
+United States
+none
+United States
+United States
+none
+United States
+Italy
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Kosovo
+none
+none
+none
+none
+Sweden
+none
+none
+none
+United States
+none
+none
+none
+none
+Uruguay
+United States
+none
+none
+none
+none
+United States
+none
+none
+United States
+none
+none
+none
+none
+none
+Norway
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+Brazil
+United States
+Germany
+United States
+none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+Brazil
+none
+none
+none
+Nigeria
+none
+United States
+United States
+none
+United States
+United States
+United States
+Nigeria
+Nigeria
+none
+none
+none
+none
+United States
+none
+none
+United States
+none
+none
+none
+United States
+none
+none
+none
+Japan
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+United States
+France
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+United States
+Ghana
+none
+United States
+none
+none
+United States
+United States
+none
+Latvia
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+United States
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+Australia
+none
+United States
+none
+Indonesia
+Indonesia
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+United Kingdom
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+Nigeria
+none
+Uruguay
+United States
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+none
+Afghanistan
+United States
+none
+United States
+none
+none
+Denmark
+United States
+United States
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+Puerto Rico
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+United States
+none
+none
+none
+United States
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+Portugal
+Nigeria
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+United States
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+Azerbaijan
+none
+none
+United States
+none
+none
+Brazil
+none
+Zambia
+United States
+none
+none
+none
+none
+Puerto Rico
+none
+none
+none
+Brazil
+India
+none
+United States
+none
+United States
+none
+none
+none
+United States
+United States
+United States
+none
+none
+none
+France
+France
+none
+Germany
+none
+none
+Norway
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+Australia
+none
+none
+none
+United States
+none
+none
+United States
+none
+none
+United States
+none
+United States
+none
+United States
+United States
+United States
+none
+none
+none
+Macedonia
+none
+none
+none
+United States
+United States
+none
+none
+Indonesia
+none
+none
+none
+none
+none
+none
+none
+none
+none
 none
 none
 none
@@ -495,6 +1380,45 @@ Argentina
 none
 none
 none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+United States
+none
+Argentina
+Turkey
+none
+none
+none
+none
+Azerbaijan
+none
+Thailand
+none
+none
+none
+Brazil
+none
+none
 none
 none
 none
@@ -504,11 +1428,207 @@ none
 United States
 none
 none
-Ecuador
+United States
+none
+United States
+United States
 none
 none
 none
-Germany
+none
+none
+Brazil
+none
+none
+none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+Malaysia
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+Iraq
+none
+none
+United States
+none
+none
+United States
+none
+none
+none
+none
+United States
+none
+Iraq
+none
+United States
+none
+United States
+United States
+none
+none
+none
+Uruguay
+United States
+none
+United States
+none
+United States
+none
+Brazil
+none
+none
+none
+United States
+none
+none
+Uruguay
+United States
+none
+United States
+none
+none
+United States
+Venezuela
+none
+none
+United States
+none
+none
+none
+none
+Nigeria
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+Colombia
+Colombia
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+United States
+none
+none
+none
+United States
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+United States
+none
+none
+none
+none
+none
+United States
+United States
+none
+none
+United States
+none
+none
+none
+none
+none
+United States
+none
+United States
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+United States
+none
+none
+none
+United States
+none
+none
+none
+none
+none
+none
+none
+none
+none
+United States
+none
+none
+none
+none
+Pakistan
+none
+United States
+none
+United States
+none
+none
 United States
 none
 none

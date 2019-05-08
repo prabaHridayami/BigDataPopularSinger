@@ -3,55 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="6cb890c3-b475-48cc-8a7a-465031075e61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ari.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ari.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Location.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Location.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_21Savage.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_21Savage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_adele.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_adele.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_angelsandairwaves.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_angelsandairwaves.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_arianagrande.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_arianagrande.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_billieeilish.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_billieeilish.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_blink182.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_blink182.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_bradleycooper.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_bradleycooper.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_brunomars.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_brunomars.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_bts.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_bts.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_camilacabello.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_camilacabello.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_cardib.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_cardib.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_descendents.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_descendents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_drake.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_drake.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_edsheeran.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_edsheeran.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_eminem.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_eminem.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_freddiemercury.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_freddiemercury.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_greenday.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_greenday.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_halsey.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_halsey.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_hozier.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_hozier.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_imaginedragons.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_imaginedragons.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_johnmayer.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_johnmayer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_jonasbrothers.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_jonasbrothers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_khalid.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_khalid.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_ladygaga.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_ladygaga.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_lukecombs.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_lukecombs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_maroon5.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_maroon5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_marshmello.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_marshmello.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_metallica.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_metallica.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_panicatthedisco.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_panicatthedisco.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_pink.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_pink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_postmalone.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_postmalone.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_rancid.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_rancid.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_samsmith.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_samsmith.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_shawnmendes.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_shawnmendes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_taylorswift.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_taylorswift.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_thechainsmokers.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_thechainsmokers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_travisscott.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_travisscott.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_twentyonepilots.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_twentyonepilots.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_weezer.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_weezer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/tes1_xxxtentacion.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/tes1_xxxtentacion.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/location.py" beforeDir="false" afterPath="$PROJECT_DIR$/location.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_adele.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_ari.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_brunomars.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_camilacabello.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_21Savage.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_21Savage.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_adele.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_adele.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_angelsandairwaves.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_angelsandairwaves.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_ari.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_arianagrande.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_arianagrande.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_billieeilish.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_billieeilish.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_blink182.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_blink182.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_bradleycooper.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_bradleycooper.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_brunomars.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_brunomars.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_bts.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_bts.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_date.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_loc_blink182.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_loc_blink182.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_loc_bradleycooper.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_loc_bradleycooper.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_loc_brunomars.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_loc_brunomars.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/output_loc_bts.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/output_loc_bts.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singer.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/singer.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testAri.py" beforeDir="false" afterPath="$PROJECT_DIR$/testAri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testRetweet.py" beforeDir="false" afterPath="$PROJECT_DIR$/testRetweet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tweet.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testAri.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="238">
+              <caret line="77" column="49" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="77" selection-end-column="49" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -76,10 +49,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/location.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-782">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testRetweet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="48" column="17" selection-start-line="18" selection-start-column="4" selection-end-line="48" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweet.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/json/tes1_21Savage.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -113,6 +105,7 @@
         <option value="$PROJECT_DIR$/json/tes1_brunomars.json" />
         <option value="$PROJECT_DIR$/json/tes1_camilacabello.json" />
         <option value="$PROJECT_DIR$/json/tes1_bts.json" />
+        <option value="$PROJECT_DIR$/testRetweet.py" />
         <option value="$PROJECT_DIR$/testAri.py" />
         <option value="$PROJECT_DIR$/location.py" />
       </list>
@@ -130,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,12 +139,13 @@
               <item name="Spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spark" type="47feb1d3:ProjectViewModuleNode" />
               <item name="Spark" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,27 +233,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spark" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="testAri" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spark" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,13 +254,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testRetweet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spark" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testRetweet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.location" />
         <item itemvalue="Python.testAri" />
+        <item itemvalue="Python.testRetweet" />
         <item itemvalue="Python.instagram" />
         <item itemvalue="Python.WordCount" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -316,19 +309,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7346939" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2670068" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32993197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -516,10 +510,26 @@
     <entry file="file://$PROJECT_DIR$/Location.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/json/tes1_descendents.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/tes1_21Savage.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testRetweet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="48" column="17" selection-start-line="18" selection-start-column="4" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testAri.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="238">
+          <caret line="77" column="49" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="77" selection-end-column="49" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
@@ -528,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/location.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-782">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
         </state>
       </provider>
     </entry>
